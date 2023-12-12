@@ -1,0 +1,12 @@
+*
+
+!.gitignore
+!README*
+
+!src/
+!src/**
+
+!*.java
+!*.form
+
+**.DS_Store
