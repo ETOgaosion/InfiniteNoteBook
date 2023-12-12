@@ -32,14 +32,14 @@ v0.0.1 Beta
 
 <center>
   <figure>
-    <img src="photos/login.png" style="width:80%">
+    <img src="assets/images/login.png" style="width:80%">
     <figcaption style="color:grey;">图1. 登陆界面</figcaption>
   </figure>
 </center>
 
 <center>
   <figure>
-    <img src="photos/overview.png" style="width:100%">
+    <img src="assets/images/overview.png" style="width:100%">
     <figcaption style="color:grey;">图2. 主界面</figcaption>
   </figure>
 </center>
@@ -70,7 +70,7 @@ So Avoid repetition.
 
 <center>
   <figure>
-    <img src="photos/AggregationVSComposition.png" style="width:100%">
+    <img src="assets/images/AggregationVSComposition.png" style="width:100%">
     <figcaption style="color:grey;">图3. Aggregation VS Composition</figcaption>
   </figure>
 </center>
@@ -85,7 +85,7 @@ So Avoid repetition.
 
 <center>
   <figure>
-    <img src="photos/FactoryPatternUML.png" style="width:60%">
+    <img src="assets/images/FactoryPatternUML.png" style="width:60%">
     <figcaption style="color:grey;">图4. FactoryPattern UML</figcaption>
   </figure>
 </center>
@@ -96,7 +96,7 @@ So Avoid repetition.
 
 <center>
   <figure>
-    <img src="photos/IteratorPatternUML.png" style="width:60%">
+    <img src="assets/images/IteratorPatternUML.png" style="width:60%">
     <figcaption style="color:grey;">图5. IteratorPattern UML</figcaption>
   </figure>
 </center>
@@ -107,7 +107,7 @@ login点击后和编译选项激活后不会立即执行登陆和编译，会首
 
 <center>
   <figure>
-    <img src="photos/ProxyPatternUML.jpeg" style="width:40%">
+    <img src="assets/images/ProxyPatternUML.jpeg" style="width:40%">
     <figcaption style="color:grey;">图6. ProxyPattern UML</figcaption>
   </figure>
 </center>
@@ -119,7 +119,7 @@ Redo/Undo Manager
 
 <center>
   <figure>
-    <img src="photos/MementoPatternUML.png" style="width:60%">
+    <img src="assets/images/MementoPatternUML.png" style="width:60%">
     <figcaption style="color:grey;">图7. MementoPattern UML</figcaption>
   </figure>
 </center>
@@ -134,7 +134,7 @@ User Action trigger out Events bound with Listener
 
 <center>
   <figure>
-    <img src="photos/ObserverPatternUML.jpg" style="width:60%">
+    <img src="assets/images/ObserverPatternUML.jpg" style="width:60%">
     <figcaption style="color:grey;">图8. ObserverPattern UML</figcaption>
   </figure>
 </center>
